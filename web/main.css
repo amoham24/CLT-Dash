@@ -1,0 +1,135 @@
+/* Style Sheet for CLT-Dash by Project Dorsal */
+
+/* Header Style */
+h1 {
+	color: white;
+	text-align: center;
+	font-family: Verdana;
+        font-size: 3em;
+}
+
+h2 {
+	color: white;
+	margin: 1em;
+	font-weight: bold;
+	font-family: Verdana;
+        font-size: 2em;
+}
+
+p {
+	text-align: center;
+	font-weight: bold;
+	font-family: Verdana;
+}
+
+/* Style for all links */
+a {
+	text-decoration: none;
+}
+
+table.center {
+	margin-left:auto; 
+	margin-right:auto;
+	font: 1.25em/1.75em Verdana;
+	color: white;
+	border: 5px solid rgb(120,220,170);
+}
+
+th, td {
+	border: 5px solid rgb(120,220,170);
+}
+
+.map {
+	border: 10px ridge white;
+}
+
+.button {
+	text-decoration: none;
+	background-color: rgb(50,150,100);
+	color: white;
+	padding: 4px 8px 4px 8px;
+	border: 5px solid rgb(120,220,170);
+	font: 1em/2.5em Verdana;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.video_style {
+	border: 10px ridge white;
+	margin: 0 auto;
+	width: 50%;
+}
+
+/* Style for the main body text of the page */
+.body_text {
+	font: 2em/1.75em Verdana;
+	text-align: center;
+	clear: both;
+	margin: 1em;
+	color: white;
+}
+
+/* Style for the banner at the top */
+.banner {
+	text-align: center;
+	padding: 1em;
+	margin-bottom: 1em;
+	background-size: 100% 100%;
+}
+
+#top_logo {
+	width: 200px;
+	height: 200px;
+}
+
+.small_logo {
+	width: 100px;
+	height: 100px;
+}
+
+/* Style for the bottom of the page */
+.bottom {
+	text-align: center;
+	font: bold 1em Verdana;
+	bottom:0;
+	width:100%;
+	height:60px;
+}
+
+.entry {
+	border: 0em;
+	margin-left: 1em;
+	font: 1.15em/1.75em Verdana;
+}
+
+/* Style for the labels */
+.entry label {
+	width: 8em;
+	padding: 1em;
+}
+
+/* Style for the sections with labels */
+.entry input {
+	font: 1.15em/1.75em Verdana;
+	border: 5px solid rgb(120,220,170);
+}
+
+/* Style for the background of the entire page */
+.background {
+	background-color: rgb(4,106,56);
+}
+
+.center {
+	text-align: center;
+	margin: auto;
+}
+
+/* Style for the spacer */
+.spacer {
+	height: 100px;
+}
+
+.g-signin2 {
+    text-align: center;
+    margin: auto;
+}
